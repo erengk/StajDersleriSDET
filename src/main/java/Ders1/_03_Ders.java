@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class _03_Ders {
     public static void main(String[] args) {
         WebDriver driver = new ChromeDriver();
-        driver.get("https://form.jotform.com/221934510376353");
+        driver.get("https://form.jotform.com/232061942956965");
 
         try{
 
