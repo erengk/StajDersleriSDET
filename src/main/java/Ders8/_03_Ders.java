@@ -35,3 +35,10 @@ public class _03_Ders extends BaseDriver {
 
     }
 }
+// TestNG
+// Cucumber
+// Jira zephyr
+// Jenkins
+// RestAsurred
+// SQL
+// Postman

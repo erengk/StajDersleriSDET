@@ -8,6 +8,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
 import java.time.Duration;
 import java.util.List;
 import java.util.Set;
@@ -53,10 +54,6 @@ public class _03_Ders extends BaseDriver {
             driver.switchTo().window(id); // sıradaki tabdaki window a geçmiş oldum.
             driver.close(); //quit(): Tüm sayfaları kapatıyor. close(): Aktif olan sayfayı kapatıyor
         }
-
-
-
-
         BekleKapat();
     }
 }
